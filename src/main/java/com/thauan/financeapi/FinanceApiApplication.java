@@ -1,13 +1,13 @@
-package com.thauan.apijavaproject;
+package com.thauan.financeapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiJavaprojectApplication {
+public class FinanceApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ApiJavaprojectApplication.class, args);
+        SpringApplication.run(FinanceApiApplication.class, args);
     }
 
 }

@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.thauan</groupId>
-    <artifactId>api-javaproject</artifactId>
+    <artifactId>finance-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>api-javaproject</name>
     <description>api-javaproject</description>
